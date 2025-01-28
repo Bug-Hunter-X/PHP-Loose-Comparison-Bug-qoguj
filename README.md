@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in PHP programming: the unexpected behavior of loose comparison (`==`) when comparing values of different types.  The `bug.php` file contains code exhibiting this bug. The `bugSolution.php` file shows how to correct this using strict comparison (`===`). This is a crucial concept in PHP for writing robust and reliable code.
